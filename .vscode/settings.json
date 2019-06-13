@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "on",
+    "prettier.jsxSingleQuote": true,
+    "prettier.useTabs": true
+}
